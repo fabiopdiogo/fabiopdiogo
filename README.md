@@ -1,7 +1,5 @@
 ### Olá! Sou o Fabio 👋
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente trabalho como Assistente de Supervisão, na Anima Educação
 - 🌱 No 7º Periodo de Sistemas de Informação
 - 👯 Me desenvolvendo para virar um futuro Dev Full Stack
