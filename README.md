@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como Assistente de Supervisão, na Anima Educação
 - 🌱 No 7º Periodo de Sistemas de Informação
-- 👯 Me desenvolvendo para virar um futuro Dev Full Stack
+- 👯 Me desenvolvendo para virar um futuro Dev FrotEnd
 
 <div align="center">
   <a href="https://github.com/fabiopdiogo">
