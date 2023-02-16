@@ -6,8 +6,11 @@
 
 <div align="center">
   <a href="https://github.com/fabiopdiogo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiopdiogo&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopdiogo&layout=compact&langs_count=7&theme=dark"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=fabiopdiogo&theme=dracula" alt="fabiopdiogo" />
+  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=fabiopdiogo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="fabiopdiogo" />  
+  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fabiopdiogo&show_icons=true&locale=en&theme=dracula" alt="fabiopdiogo" />
+
+  
 </div>
  
 <div style="display: inline_block"><br>
