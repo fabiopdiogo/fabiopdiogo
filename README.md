@@ -1,7 +1,7 @@
 ### Olá! Sou o Fabio 👋
 
 - 🔭 Atualmente trabalho como Assistente de Supervisão, na Anima Educação
-- 🌱 No 7º Periodo de Sistemas de Informação
+- 🌱 No 2º Periodo de Analise e Desenvolvimento de Sistemas
 - 👯 Me desenvolvendo para virar um futuro Dev FrotEnd
 
 <div align="center">
